@@ -1,7 +1,7 @@
 # Single Page Application - Rick And Morty
 
 Course of Single Page Application when was created a app web, geting info from Rick And Morty API
-
+Use travis CI for public the page
 
 ## Demo
 
