@@ -5,7 +5,7 @@ Use travis CI for public the page
 
 ## Demo
 
-You can see the demo live, [here](https://darkmefisto9.github.io/spa-100tifi.co/)
+You can see the demo live, [here](https://AlexanderAlvarez9.github.io/spa-100tifi.co/)
 
 ## Image Preview
 
